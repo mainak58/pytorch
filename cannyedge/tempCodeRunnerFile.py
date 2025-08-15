@@ -1,0 +1,1 @@
+img_resized = cv2.resize(img, new_size, interpolation=cv2.INTER_AREA)
